@@ -45,8 +45,7 @@ Personal project focused on technology services and solutions.
 ## 📫 Contact
 
 📍 Costa Rica  
-📧 your-email@example.com
-
+📧 arcemejiasjustin@gmail.com
 ---
 
 © 2026 Justin Arce
